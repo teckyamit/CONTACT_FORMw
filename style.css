@@ -214,26 +214,9 @@ input[type=text], select, textarea{
     
   }
 
-  #myTable th,
-  #myTable td {
-    text-align: left;
-    border-color: black;
-    font-size: 2.5vh;
-  }
-
-  #myTable tr {
-    border-bottom: 1px solid #ddd;
-     
-  }
- .view-code{
-     text-align: center;
- }
-   
-  .sectionthree{
-border: 2px solid black;
-padding: 2.4vh;
-  }
   
+
+   
  button{
      display: block;
      
@@ -273,7 +256,14 @@ padding: 2.4vh;
     opacity: 1;
     right: 0;
   }
-  .center{
+  #lname{
+      padding: 7px;
+    float: left;
+    width: 100%;
+    margin-top: 6px;
+  }
+  /* .center{
     display: block;
     margin: auto;
   }
+   */
